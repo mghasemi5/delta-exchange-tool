@@ -17,5 +17,5 @@ while True:
         sort('eth.xlsx', prices)
 
     except:
-        print('rid')
+        print('fetch error')
         continue
